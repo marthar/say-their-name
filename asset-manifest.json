@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/say-their-names/static/css/main.123127b8.chunk.css",
+    "main.js": "/say-their-names/static/js/main.4b7c70fe.chunk.js",
+    "main.js.map": "/say-their-names/static/js/main.4b7c70fe.chunk.js.map",
+    "runtime-main.js": "/say-their-names/static/js/runtime-main.58209f8b.js",
+    "runtime-main.js.map": "/say-their-names/static/js/runtime-main.58209f8b.js.map",
+    "static/js/2.37ae5a1d.chunk.js": "/say-their-names/static/js/2.37ae5a1d.chunk.js",
+    "static/js/2.37ae5a1d.chunk.js.map": "/say-their-names/static/js/2.37ae5a1d.chunk.js.map",
+    "index.html": "/say-their-names/index.html",
+    "precache-manifest.d316ae9440908a3da9dbb780e9cbd278.js": "/say-their-names/precache-manifest.d316ae9440908a3da9dbb780e9cbd278.js",
+    "service-worker.js": "/say-their-names/service-worker.js",
+    "static/css/main.123127b8.chunk.css.map": "/say-their-names/static/css/main.123127b8.chunk.css.map",
+    "static/js/2.37ae5a1d.chunk.js.LICENSE.txt": "/say-their-names/static/js/2.37ae5a1d.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/say-their-names/static/media/MARTIN-Regular.8e7ce7c1.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58209f8b.js",
+    "static/js/2.37ae5a1d.chunk.js",
+    "static/css/main.123127b8.chunk.css",
+    "static/js/main.4b7c70fe.chunk.js"
+  ]
+}
