@@ -1,9 +1,87 @@
+@font-face {
+  font-family: 'martin-web';
+  src: url('martin-web/MARTIN-Regular.eot'); /* IE9 Compat Modes */
+  src: url('martin-web/MARTIN-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('martin-web/MARTIN-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('martin-web/MARTIN-Regular.woff') format('woff');
+}
 
+html, body {
+  padding:0px;
+  margin:0px;
+  
+}
+
+* {
+  box-sizing: border-box;
+}
 
 body { 
   background-color:black;
+  color:white;
+  font-family:monospace;
+  color:#949393;
 }
 
+a {
+  color:white;
+  color: #949393;
+}
+
+h1,h2 { 
+  text-align:center;
+  font-weight:500;
+
+}
+
+h1 {
+  font-family:"martin-web", sans-serif;
+  font-size:220px;
+  margin-bottom:0;
+  line-height: .7em;
+  text-transform:uppercase;
+  color:#505050;
+  padding: 50px;
+  margin-top:0;
+}
+
+h2 {
+
+  padding-top:30px;
+  font-weight:normal;
+  font-size:22px;
+  width:75%;
+  line-height: 1.4em;
+  margin:0 auto;
+}
+
+.button { 
+  border:1px solid white;
+  color:white;
+  padding:10px 20px;
+  text-align:center;
+  margin:10px;
+  width:fit-content;
+  margin:0 auto;
+  margin-bottom:100px;
+  margin-top:20px;
+}
+
+.button a {
+  padding:10px 20px;
+  text-decoration:none;
+  text-transform:uppercase;
+  font-size:20px;
+
+}
+
+#side-button {
+  position:fixed;
+  top:10px;
+  right:0;
+  transform:rotate(-90deg);
+  transform-origin: right bottom;
+}
 .namelist {
   max-width:1040px;
   margin:0 auto;
@@ -16,45 +94,64 @@ body {
 
   &__line {
     position:absolute;
-    left:50%;
+    left:40%;
     top:0px;
     height:100%;
     width:3px;
-    background-color:white;
+    background-color:#151414;
   }
 
   &__dot { 
-    position:absolute;
+   /* position:absolute;
     background-color:black;
-    border-radius:50%;
+    border-radius:40%;
     width:11px;
     height:11px;
-    top:3px;
+    top:45px;
     left:-5px;
-    border:1px solid white;
+    border:2px solid black;*/
   }
 
   &__date {
     position:absolute;
-    right: 50%;
-    padding-right:10px;
-    color:white;
-    font-size:16px;
+    right: 60%;
+    padding-right:20px;
+    font-size:20px;
+    padding-top:23px;
+    color:#505050;
   }
 
 
   &__details {
     position:relative;
-    left: 50%;
-    padding-left:16px;
-    color:white;
+    left: 40%;
+    padding-left:22px;
     font-size:14px;
-    padding-bottom:30px;
-    top:-5px;
+    padding-bottom:50px;
+    top:15px;
+    max-width:40%;
+    color:#505050;
   }
 
   &__name { 
-    font-size:24px;
+    font-family:"martin-web";
+    text-transform:uppercase;
+    font-size:90px;
+    color:#dde4e6;
+    line-height:.7em;
+    letter-spacing:.015em;
+    word-spacing:.015em;
+    padding-bottom:15px;
+  }
+  
+  &__age {
+    display:inline-block;
+    padding-right:20px;
+  }
+  
+  &__location {
+    display:inline-block;
+    
   }
 
   &__image {
@@ -66,4 +163,32 @@ body {
 
   }
 
+}
+
+@media screen and (max-width:600px) {
+  
+  .namelist {
+
+  &__entry {
+  }
+
+  &__line {
+    left:30%;
+  }
+
+  &__date {
+    right: 70%;
+  }
+    
+  &__details { 
+    left: 30%;
+  }
+
+
+
+}
+
+  
+  
+  
 }

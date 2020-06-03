@@ -1,5 +1,6 @@
 {
-  "name": "portfolios",
+  "name": "say-their-names",
+  "homepage": "https://marthar.github.io/say-their-name/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
