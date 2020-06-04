@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/say-their-name/static/css/main.94e60a35.chunk.css",
-    "main.js": "/say-their-name/static/js/main.090f78f2.chunk.js",
-    "main.js.map": "/say-their-name/static/js/main.090f78f2.chunk.js.map",
-    "runtime-main.js": "/say-their-name/static/js/runtime-main.48deacc0.js",
-    "runtime-main.js.map": "/say-their-name/static/js/runtime-main.48deacc0.js.map",
-    "static/js/2.65c13f84.chunk.js": "/say-their-name/static/js/2.65c13f84.chunk.js",
-    "static/js/2.65c13f84.chunk.js.map": "/say-their-name/static/js/2.65c13f84.chunk.js.map",
-    "index.html": "/say-their-name/index.html",
-    "precache-manifest.95dd02a4ccd38d4709459bfd1e9085fa.js": "/say-their-name/precache-manifest.95dd02a4ccd38d4709459bfd1e9085fa.js",
-    "service-worker.js": "/say-their-name/service-worker.js",
-    "static/css/main.94e60a35.chunk.css.map": "/say-their-name/static/css/main.94e60a35.chunk.css.map",
-    "static/js/2.65c13f84.chunk.js.LICENSE.txt": "/say-their-name/static/js/2.65c13f84.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/say-their-name/static/media/MARTIN-Regular.8e7ce7c1.woff2"
+    "main.css": "/static/css/main.228fb159.chunk.css",
+    "main.js": "/static/js/main.7228b1da.chunk.js",
+    "main.js.map": "/static/js/main.7228b1da.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.deb9af8c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.deb9af8c.js.map",
+    "static/js/2.39bbd506.chunk.js": "/static/js/2.39bbd506.chunk.js",
+    "static/js/2.39bbd506.chunk.js.map": "/static/js/2.39bbd506.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d19a6fc87e826783ab9fbe01d852746f.js": "/precache-manifest.d19a6fc87e826783ab9fbe01d852746f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.228fb159.chunk.css.map": "/static/css/main.228fb159.chunk.css.map",
+    "static/js/2.39bbd506.chunk.js.LICENSE.txt": "/static/js/2.39bbd506.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/MARTIN-Regular.8e7ce7c1.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.48deacc0.js",
-    "static/js/2.65c13f84.chunk.js",
-    "static/css/main.94e60a35.chunk.css",
-    "static/js/main.090f78f2.chunk.js"
+    "static/js/runtime-main.deb9af8c.js",
+    "static/js/2.39bbd506.chunk.js",
+    "static/css/main.228fb159.chunk.css",
+    "static/js/main.7228b1da.chunk.js"
   ]
 }
