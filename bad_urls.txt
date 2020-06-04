@@ -1,0 +1,449 @@
+BAD: 237 Tevin Robinson "Only absolute URLs are supported" - www.starnewsonline.com/article/20131121/ARTICLES/131129903
+BAD: 530 Charles Emmett Logan "Only absolute URLs are supported" - kstp.com/news/stories/S3607822.shtml
+BAD: 938 Cameron Gover "Only absolute URLs are supported" - www.indystar.com/story/news/crime/2016/04/03/suspect-shot-killed-police-mcdonalds-robbbery/82579924/
+BAD: 967 Lionel Gibson "Only absolute URLs are supported" - www.presstelegram.com/general-news/20160507/fatal-officer-involved-shooting-investigated-in-south-wrigley-area-of-long-beach
+BAD: 1631 Alonzo L. Smith "Only absolute URLs are supported" - 
+BAD: 1764 Akeen Brown "Only absolute URLs are supported" - 
+BAD: 1948 Miciah Lee "Only absolute URLs are supported" - kolotv.com, ktvn.com, kkoh.com
+BAD: 1949 Claude Fain "Only absolute URLs are supported" - cbslocal.com, inquirer.com
+BAD: 1950 Henry Isaac Jones "Only absolute URLs are supported" - wtxl.com, walb.com
+BAD: 1951 Ryan O. Simms "Only absolute URLs are supported" - nbcmiami.com, cbslocal.com, local10.com
+BAD: 1952 Keenan McCain "Only absolute URLs are supported" - nbcchicago.com, abc7chicago.com
+BAD: 1953 Renard Antonio Daniels "Only absolute URLs are supported" - wesh.com, clickorlando.com, wftv.com
+BAD: 1954 Albert Lee Hughes "Only absolute URLs are supported" - gwinnettdailypost.com, ajc.com
+BAD: 1955 Murbarak Soulemane "Only absolute URLs are supported" - fox61.com, wtnh.com
+BAD: 1956 Samuel David Mallard "Only absolute URLs are supported" - ajc.com, fox5atlanta.com
+BAD: 1957 Reginald Leon Boston "Only absolute URLs are supported" - jacksonville.com, news4jax.com
+BAD: 1958 Darius J. Tarver "Only absolute URLs are supported" - nbcdfw.com, crosstimbersgazette.com
+BAD: 1959 Deandre Lee Seaborough-Patterson "Only absolute URLs are supported" - savannahnow.com, wtoc.com
+BAD: 1960 Marquis Golden "Only absolute URLs are supported" - tbreporter.com, abcactionnews.com
+BAD: 1961 Andrew Smyrna "Only absolute URLs are supported" - wsbtv.com, fox5atlanta.com
+BAD: 1962 Michael Rivera "Only absolute URLs are supported" - nbcnewyork.com, abc7ny.com
+BAD: 1963 D'ovion Semaj Perkins "Only absolute URLs are supported" - kdvr.com, thedenverchannel.com
+BAD: 1964 Joshua James Brown "Only absolute URLs are supported" - 10tv.com, dispatch.com
+BAD: 1965 William Howard Green "Only absolute URLs are supported" - fox5dc.com, nbcnews.com
+BAD: 1966 Aaron T. Booker "Only absolute URLs are supported" - wistv.com, aikenstandard.com
+BAD: 1967 Jaquyn Oneill Light "Only absolute URLs are supported" - wxii12.com, myfox8.com
+BAD: 1968 Keith Dutree Collins "Only absolute URLs are supported" - abc11.com, newsobserver.com
+BAD: 1969 Leonard Parker "Only absolute URLs are supported" - ajc.com, rockdalenewtoncitizen.com
+BAD: 1970 Ronnell Mouzon "Only absolute URLs are supported" - news-press.com, winknews.com
+BAD: 1971 Alvin Cole "Only absolute URLs are supported" - cbs58.com, fox6now.com, waow.com
+BAD: 1972 Marc Dominic Neal "Only absolute URLs are supported" - ksl.com, fox13now.com
+BAD: 1973 Darius Tarver "Only absolute URLs are supported" - nbcdfw.com, cbslocal.com
+BAD: 1974 Dominique Antwon Anderson "Only absolute URLs are supported" - fresnobee.com, kmph.com
+BAD: 1975 Jeremy Grayson "Only absolute URLs are supported" - wmcactionnews5.com, wmcactionnews5.com
+BAD: 1976 Bobby Gibbs "Only absolute URLs are supported" - clickorlando.com, wesh.com
+BAD: 1977 Kevin Adolphe "Only absolute URLs are supported" - abc6onyourside.com, nbc4i.com
+BAD: 1978 Joseph Jewell "Only absolute URLs are supported" - al.com, washingtonpost.com
+BAD: 1979 Kenneth Sashington "Only absolute URLs are supported" - bradenton.com, mysuncoast.com
+BAD: 1980 Justin Lee Stackhouse "Only absolute URLs are supported" - jsonline.com, wisn.com, wisn.com
+BAD: 1981 Anthony Taylor "Only absolute URLs are supported" - wtae.com, triblive.com
+BAD: 1982 Elijah Jamaal Brewer "Only absolute URLs are supported" - fox19.com, wcpo.com
+BAD: 1983 Tyler M. Jones "Only absolute URLs are supported" - sun-sentinel.com, sun-sentinel.com
+BAD: 1984 Barry Gedeus "Only absolute URLs are supported" - wlky.com
+BAD: 1985 Breona Taylor "Only absolute URLs are supported" - fox4kc.com, apnews.com
+BAD: 1986 Donnie Sanders "Only absolute URLs are supported" - messengernews.net, kcci.com
+BAD: 1987 Darwin Foy "Only absolute URLs are supported" - fox5atlanta.com, ajc.com
+BAD: 1988 William Simpkins "Only absolute URLs are supported" - ktxs.com, myfoxzone.com
+BAD: 1989 Harold Spencer "Only absolute URLs are supported" - wtxl.com, wctv.tv
+BAD: 1990 Lebarron Ballard "Only absolute URLs are supported" - wtvm.com, ajc.com
+BAD: 1991 Mycael Johnson "Only absolute URLs are supported" - wtkr.com, usnews.com
+BAD: 1992 Kamaal Koby Edwards "Only absolute URLs are supported" - spectrumlocalnews.com, midhudsonnews.com
+BAD: 1993 Alvin Lamont Baum "Only absolute URLs are supported" - foxbaltimore.com, baltimoresun.com
+BAD: 1994 Tyrell Fincher "Only absolute URLs are supported" - thenewsstar.com, knoe.com
+BAD: 1995 Etonne Tanzymore "Only absolute URLs are supported" - knoxnews.com, knoxnews.com
+BAD: 1996 Nathan R. Hodge "Only absolute URLs are supported" - crossroadstoday.com
+BAD: 1997 Idris Abdus-Salaam "Only absolute URLs are supported" - wistv.com, wltx.com
+BAD: 1998 Dewayne Curtis Lafond "Only absolute URLs are supported" - richmond.com, nbc12.com
+BAD: 1999 Joshua Dariandre Ruffin "Only absolute URLs are supported" - ajc.com, wjbf.com
+BAD: 2000 Zyon Romeir Wyche "Only absolute URLs are supported" - lubbockonline.com
+BAD: 2001 Goldie Bellinger "Only absolute URLs are supported" - al.com, fox10tv.com
+BAD: 2002 Jasman Washington "Only absolute URLs are supported" - abc7news.com, yahoo.com
+BAD: 2003 Derick L. Powe "Only absolute URLs are supported" - krdo.com, newsbreak.com
+BAD: 2004 Steven Taylor "Only absolute URLs are supported" - 8newsnow.com, reviewjournal.com
+BAD: 2005 Virgill Thrope "Only absolute URLs are supported" - scnow.com
+BAD: 2006 Chase Rosa "Only absolute URLs are supported" - wlky.com, newsandtribune.com
+BAD: 2007 Elmer L. Mack "Only absolute URLs are supported" - komonews.com, q13fox.com, komonews.com
+BAD: 2008 Malcolm Xavier Ray Williams "Only absolute URLs are supported" - thv11.com, fox16.com
+BAD: 2009 Shaun Lee Fuhr "Only absolute URLs are supported" - tulsaworld.com, kjrh.com
+BAD: 2010 Brent Martin "Only absolute URLs are supported" - kmov.com, ksdk.com
+BAD: 2011 Said Joquin "Only absolute URLs are supported" - clickorlando.com, positivelyosceola.com
+BAD: 2012 Demontre Bruner "Only absolute URLs are supported" - indystar.com, indystar.com
+BAD: 2013 Qavon Webb "Only absolute URLs are supported" - houstonchronicle.com, whtc.com
+BAD: 2014 Jah'Sean Iandie Hodge "Only absolute URLs are supported" - wusa9.com, wjla.com
+BAD: 2015 Dreasjon Reed "Only absolute URLs are supported" - abc11.com, newsobserver.com
+BAD: 2016 Adrian Medearis "Only absolute URLs are supported" - click2houston.com, fox26houston.com
+BAD: 2017 Finan H. Berhe "Only absolute URLs are supported" - cbslocal.com, baltimoresun.com
+BAD: 2018 David Tylek Atkinson "Only absolute URLs are supported" - abc13.com, chron.com, khou.com
+BAD: 2019 Rayshard Scales "Only absolute URLs are supported" - 
+BAD: 2020 Robert Johnson "Only absolute URLs are supported" - 
+BAD: 2021 Randy Roszell Lewis "Only absolute URLs are supported" - 
+BAD: 2022 George Floyd "Only absolute URLs are supported" - 
+BAD: 34 Stephen O'Neal Wattley II "request to http://www.journalgazette.com/article/20130221/LOCAL07/302219987 failed, reason: getaddrinfo ENOTFOUND www.journalgazette.com" - http://www.journalgazette.com/article/20130221/LOCAL07/302219987
+BAD: 39 Amos G. Smith "403" - http://www.contracostatimes.com/breaking-news/ci_24362149/union-city-police-shoot-kill-parolee-armed-pipe
+BAD: 53 Kevin M. Bailey "404" - http://www.19actionnews.com/story/21665949/kevin-bailey-killed-in-solon-officer-involved-shooting
+BAD: 17 James Eric Griffin "400" - http://www.americanownews.com/story/21789708/no-charges-will-be-filed-against-alto-police-officer-in-death
+BAD: 137 Jourdan Akili Wagner "request to http://arizona.newszap.com/westvalley/123446-114/update-glendale-officer-recovering-from-shooting-that-left-suspect-police-dog-dead failed, reason: getaddrinfo ENOTFOUND arizona.newszap.com" - http://arizona.newszap.com/westvalley/123446-114/update-glendale-officer-recovering-from-shooting-that-left-suspect-police-dog-dead
+BAD: 138 Donnell Carter "request to http://www.jrn.com/tmj4/news/212287851.html failed, reason: getaddrinfo ENOTFOUND www.jrn.com" - http://www.jrn.com/tmj4/news/212287851.html
+BAD: 118 Edward Mwaura "500" - http://articles.southbendtribune.com/2013-06-03/news/39721723_1_apartment-building-6-year-old-girl-apartment-complex
+BAD: 143 Ernest Foster "request to http://www.jrn.com/kmir6/news/Vigil-for-Man-Shot-and-Killed-by-Indio-PD-216094701.html failed, reason: getaddrinfo ENOTFOUND www.jrn.com" - http://www.jrn.com/kmir6/news/Vigil-for-Man-Shot-and-Killed-by-Indio-PD-216094701.html
+BAD: 164 Dainell Simmons "404" - http://longisland.news12.com/news/family-of-dainell-simmons-files-lawsuit-against-suffolk-after-taser-death-1.8540024
+BAD: 195 Kendrick Lee Amest "404" - http://thepolicenews.net/default.aspx?newsletterid=39845&act=Newsletter.aspx
+BAD: 247 Thomas Ardd "404" - http://www.msnewsnow.com/story/23861024/man-who-allegedly-points-gun-at-cops-killed-following-chase
+BAD: 318 Stephon Averyhart "request to http://blogs.riverfronttimes.com/dailyrft/2014/02/police_kill_stephon_averyhart.php failed, reason: getaddrinfo ENOTFOUND blogs.riverfronttimes.com" - http://blogs.riverfronttimes.com/dailyrft/2014/02/police_kill_stephon_averyhart.php
+BAD: 264 Lennard Whittle "404" - http://www.hvinsider.com/articles/middletown-police-shoot-and-kill-knife-wielding-man/
+BAD: 347 Sakhar Williye Robinson "403" - http://rowanfreepress.com/2014/03/26/off-duty-sheriffs-deputy-guns-down-robber-at-china-buffet-in-salisbury-n-c/
+BAD: 392 Michael Myers "request to http://voices.suntimes.com/news/breaking-news/police-man-threatening-officer-with-knife-shot-killed-by-police/ failed, reason: getaddrinfo ENOTFOUND voices.suntimes.com" - http://voices.suntimes.com/news/breaking-news/police-man-threatening-officer-with-knife-shot-killed-by-police/
+BAD: 373 Justin Griffin "404" - http://www.msnewsnow.com/story/25435949/coach-dies-after-altercation-with-hinds-co-deputies?clienttype=generic&mobilecgbypass&utm_content=buffer8b414&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+BAD: 471 Darius Colegarrit "request to http://voices.suntimes.com/news/breaking-news/male-shot-by-police-on-far-south-side/ failed, reason: getaddrinfo ENOTFOUND voices.suntimes.com" - http://voices.suntimes.com/news/breaking-news/male-shot-by-police-on-far-south-side/
+BAD: 425 Rodney Hodge "404" - http://crimeblog.dallasnews.com/2014/06/one-suspect-dead-in-officer-involved-shooting.html/
+BAD: 462 Torrez Harris "404" - http://www.msnewsnow.com/story/26249119/breaking
+BAD: 261 Antoine Duane Goodrum "404" - http://www.baltimorenewsjournal.com/2013/11/18/germantown-shooting-gunman-on-the-loose/
+BAD: 510 Aljarreau Cross "request to http://www.jrn.com/ktnv/news/Family-speaks-out-after-man-killed-by-police-in-shootout-278597311.html failed, reason: getaddrinfo ENOTFOUND www.jrn.com" - http://www.jrn.com/ktnv/news/Family-speaks-out-after-man-killed-by-police-in-shootout-278597311.html
+BAD: 552 Travis Faison "request to http://wvtm.membercenter.worldnow.com/story/27598792/1-dead-in-sanford-officer-involved-shooting failed, reason: getaddrinfo ENOTFOUND wvtm.membercenter.worldnow.com" - http://wvtm.membercenter.worldnow.com/story/27598792/1-dead-in-sanford-officer-involved-shooting
+BAD: 554 Michael D. Sulton "404" - http://www.msnewsnow.com/story/27625936/madison-coroner-called-to-hwy-51-for-officer-involved-shooting
+BAD: 574 Artago Damon Howard "410" - http://www.greenfieldreporter.com/view/story/f769fa01fc134dab9ebc78994015adf8/AR--Fatal-Pharmacy-Robbery
+BAD: 571 Ronald "Maynard" Sneed "404" - http://www.finditwestvalley.com/us/unlikely-allies-diffuse-unrest-after-police-shooting-h45858.html
+BAD: 627 Theodore Johnson "404" - http://www.19actionnews.com/story/28380324/one-dead-after-officer-involved-shooting-in-cleveland
+BAD: 626 Terrance Moxley "404" - http://www.19actionnews.com/story/28382544/possible-taser-death-under-investigation-in-mansfield
+BAD: 679 Reginald L. Moore Sr. "404" - http://www.msnewsnow.com/story/28985092/washington-county-crimestoppers-head-charged-with-murder
+BAD: 751 Keshawn Hargrove "request to http://bigstory.ap.org/article/591758407e704e56a35001a00033f9cd/white-officer-recovering-after-shootout-black-suspect failed, reason: getaddrinfo ENOTFOUND bigstory.ap.org" - http://bigstory.ap.org/article/591758407e704e56a35001a00033f9cd/white-officer-recovering-after-shootout-black-suspect
+BAD: 798 Jeffery McCallum "404" - http://chicago.suntimes.com/crime/7/71/1011093/fire-official-1-dead-1-hurt-north-lawndale-shooting
+BAD: 1029 Alva Braziel "403" - http://www.newsweek.com/alva-braziel-what-we-know-houston-police-shooting-479210
+BAD: 1167 Joshua D. Jones "404" - http://chicago.suntimes.com/news/off-duty-robbins-police-officer-shoots-kills-robbery-suspect/
+BAD: 1392 Augustus Crawford "503" - http://www.kerngoldenempire.com/news/top-stories/officer-involved-shooting-in-south-bakersfield/851435943
+BAD: 1512 Elijah James Smith "503" - http://www.good4utah.com/news/top-stories/update-one-dead-in-west-valley-officer-involved-shooting/1107681351
+BAD: 1548 DaNathe M. Gulliford "503" - http://www.illinoishomepage.net/news/local-news/armed-man-killed-by-police/1233841661
+BAD: 1447 Arther McAfee Jr. "404" - https://www.news-journal.com/news/2018/jan/20/family-man-mental-issues-shot-harrison-county-depu/
+BAD: 1576 Cynthia Fields "404" - https://www.wsav.com/top-stories/bystander-shot-in-savannah-during-officer-involved-shooting/1331134706
+BAD: 1612 Thomas Watkins "404" - https://chicago.suntimes.com/crime/man-shot-to-death-by-gary-police-after-firing-at-officers/
+BAD: 1596 Aquantis Griffin "404" - https://www.kxan.com/news/crime/police-shoot-kill-man-near-sixth-street/1377623458
+BAD: 1654 Timothy Odell Leon "404" - https://azdailysun.com/news/state-and-regional/police-shooting-after-suspect-chase-from-phoenix-to-glendale/article_31f55c78-352a-53ef-8d28-fcce2ed84351.html?fbclid=IwAR0OjKnCgRPnUyPzC0z5KiJQaAhxP7bQn3QHsqjSUIF-PysaDjB32YfFRu8
+BAD: 1629 Sershawn Martez Dillon "403" - https://www.wsmv.com/news/dead-in-north-nashville-shooting-metro-police-officer-injured/article_cdfd3182-c91d-11e8-b4b1-3bae2c5f3856.html
+BAD: 1770 Pamela Shantay Turner "410" - https://www.chron.com/news/texas/article/Medical-examiner-Police-shooting-of-Texas-woman-13848360.php
+BAD: 1682 Wayne Falana Jr. "404" - https://www.wfla.com/news/pinellas-county/man-shot-killed-after-opening-fire-on-clearwater-officers-during-domestic-call/1674973826
+BAD: 1848 Amari Malone "410" - https://www.mysanantonio.com/news/texas/article/Texas-police-fatally-shoot-18-year-old-incident-14371214.php
+BAD: 1865 Nicholas Walker "410" - https://www.mysanantonio.com/news/texas/article/Man-with-replica-BB-gun-fatally-wounded-by-14441342.php
+BAD: 0 Tyree Bell "404" - http://www.ketv.com/news/Police-chief-details-officer-involved-shooting/17983680; http://www.omaha.com/news/omaha-police-chief-describes-dead-suspect-as-suicidal-mentally-ill/article_d0d3c6c8-701a-51ab-85c1-738e06e9f5a8.html
+BAD: 18 Barbara Lassere "503" - http://www.wwltv.com/story/local/2015/05/08/14570128/
+BAD: 33 John Dawson Parker "404" - http://www.wokv.com/weblogs/morning-news-recap/2013/feb/19/police-kill-armed-suspect/
+BAD: 41 Terence Anderson "404" - http://www.ksdk.com/story/local/2013/03/05/3104433/
+BAD: 44 Horace Whiting "404" - http://www.localmemphis.com/mostpopular/story/Memphis-Officers-Shoot-Kill-Suspect-Armed-with/d/story/DSO-dq-tW0itCkhNdYVHyw
+BAD: 13 Reginald Lamont “Deucey” Epps "404" - http://www.rrspin.com/roanoke-rapids-weldon-halifax-county-nc-news/item/4287-sbi-warrant-confirms-straight-road-shootout.html
+BAD: 61 Matthew Renard Joseph "404" - http://www.wxyz.com/news/region/detroit/sources-indentify-matthew-joseph-as-man-killed-after-shooting-two-detroit-police-officers
+BAD: 57 Daniel Lee Rhodes "404" - http://www.palmbeachpost.com/news/news/crime-law/one-dead-in-officer-involved-shooting-in-suburban-/nW2jw/
+BAD: 70 Craig Demps "404" - http://www.palmbeachpost.com/news/news/man-shot-and-killed-by-deputies-near-marriott-in-w/nXR2K/
+BAD: 65 Bradford Louis Etheredge "404" - http://www.nola.com/crime/baton-rouge/index.ssf/2013/04/two_baton_rouge_police_officer_1.html#incart_river_default
+BAD: 107 Julian Dawkins "503" - http://www.wusa9.com/story/news/local/2014/02/06/patterson-dawkins-sentencing/5252259/
+BAD: 146 Carlos D. Runyon "404" - http://www.wlky.com/news/local-news/louisville-news/officer-involved-in-fern-creek-shooting/-/9718340/20867548/-/uu97y6z/-/index.html
+BAD: 117 Ernest Zaus Jaquine Barnett "404" - http://www.wsbtv.com/news/news/local/mother-police-went-overboard-when-shooting-son/nYxYJ/
+BAD: 14 Jayvis Benjamin "404" - http://www.wsbtv.com/news/news/local/criminal-grand-jury-review-officer-involved-shooti/nk66p/
+BAD: 155 Daryll Blair "503" - http://www.kens5.com/story/news/local/2014/06/26/10493134/
+BAD: 58 Russell Lydell Smith "404" - http://www.seattleweekly.com/home/950037-129/nowhere-to-run
+BAD: 175 Montrell Moss "404" - http://chicago.suntimes.com/news/7/71/787110/mom-suing-former-correctional-officer-over-sons-road-rage-shooting-death
+BAD: 141 Lonnie Taylor "404" - http://www.ktvu.com/news/news/crime-law/sacramento-man-killed-vacaville-officer-involved-s/nYZT9/
+BAD: 193 Denis Reynoso "404" - http://baystateexaminer.com/records-raise-new-questions-fatal-police-shooting-denis-reynoso/
+BAD: 174 Jeffery B. Lilly Jr. "404" - http://www.theindychannel.com/news/local-news/impd-suspect-dies-while-being-arrested
+BAD: 286 Dante Chavful "404" - http://www.chron.com/news/houston-texas/houston/article/Authorities-Off-duty-officer-kills-man-who-5099348.php?cmpid=hpbn
+BAD: 221 Darryl Lee Drayton "404" - http://www.postandcourier.com/article/20131014/PC16/131019685
+BAD: 245 Alfred Ferrell III "404" - http://www.wthr.com/story/23829356/2013/10/30/police-activity-on-indianapolis-north-side
+BAD: 279 Kenneth R. Herring "404" - http://www.nbc4i.com/story/24199897/assault-suspect-killed-in-officer-involved-shooting
+BAD: 259 Jonathan Wilcher "404" - http://www.wftv.com/news/news/local/police-shoot-kill-armed-man-outside-titusville-bar/nbwJ3/
+BAD: 239 Jarmel Anthony Cosby "404" - http://www.firstcoastnews.com/news/article/333408/3/Officer-involved-shooting-suspect-dead-
+BAD: 324 David Goins "404" - http://www.timesheraldonline.com/news/ci_25169426/san-lorenzo-man-dies-officer-involved-shooting
+BAD: 241 George Pryor "404" - http://www.wsav.com/story/23806056/one-dead-in-officer-involved-shooting-in-statesboro
+BAD: 222 William Taylor "404" - http://www.wkyc.com/news/article/318174/45/911-calls-in-bizarre-Lorain-homicide-released
+BAD: 281 Sharon Rebecca McDowell "404" - http://www.foxcarolina.com/story/24278010/police-shoplifting-suspect-shot-and-killed-in-anderson
+BAD: 383 Gary Smith "404" - http://www.suntimes.com/27377311-761/armed-man-shot-by-police-on-west-side-dies.html#.U3DGe-hX-uY
+BAD: 361 Michael C. Nichols Jr. "404" - http://theadvocate.com/home/8917261-125/tangipahoa-man-in-domestic-dispute
+BAD: 334 Floyd Gene Hodge "404" - http://www.newssun.com/news/article_513fe971-a208-543b-8a5c-71ff2376804d.html
+BAD: 356 Tinoris Williams "404" - http://www.palmbeachpost.com/news/news/pbso-investigating-officer-involved-shooting-in-su/nfTT5/
+BAD: 362 Claudell Webb Jr. "404" - http://www.kmov.com/news/just-posted/Police-respond-to-report-of-shooting-at-Gravois-Bluffs-shopping-center-255500671.html
+BAD: 265 Danny Thornton "404" - http://www.nbc4i.com/story/24042714/shooting-near-highland-park-elementary-prompts-lockdown
+BAD: 353 Marcus Garner "404" - http://www.wsbtv.com/news/news/local/officer-injured-suspect-killed-lawrenceville-apart/nfQTQ/
+BAD: 343 Douglas Cooper "404" - http://www.providencejournal.com/breaking-news/content/20140323-update-providence-police-say-undetermined-who-fired-fatal-shot-in-gunfight.ece
+BAD: 238 Dimetri Polen "404" - http://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/demitri-polen-christopher-nebbeling-west-palm-beach-officer-shoots-kills-man-pointing-ak-47
+BAD: 398 Quintico Goolsby "404" - http://www.wthr.com/story/25655412/2014/05/30/friends-say-suspect-was-fearful-before-friday-morning-shooting
+BAD: 404 Thomas Dewitt Johnson "503" - http://www.firstcoastnews.com/story/news/local/2014/06/04/westside-jso-officer-involved-shooting/9985499/
+BAD: 413 Jason Harrison "404" - http://www.wfaa.com/news/crime/Man-shot-killed-by-Dallas-officer--263168561.html
+BAD: 411 Broderick Johnson "503" - http://www.11alive.com/story/news/local/chamblee/2014/06/10/chamblee-autozone-robbery/10269415/
+BAD: 147 Glenn Llewellyn Briggs "404" - http://www.newsherald.com/news/crime-public-safety/update-slaying-suspect-killed-in-shootout-1.169050
+BAD: 266 Otavis Hall "404" - http://www.myvalleynews.com/story/74801/
+BAD: 365 Emmanuel Wooten "404" - http://www.wtok.com/news/headlines/Update-on-Emmanuel-Wooten-Search-256704901.html
+BAD: 316 Leroy Turner "404" - http://www.khou.com/news/editors-pick/Off-duty-officer-kills-burglary-suspect-at-upscale-apartments-on-Kirby-244790931.html
+BAD: 292 Rasheik Calhoun "404" - http://www.nwfdailynews.com/local/suspect-killed-officers-shot-in-crestview-incident-1.257150
+BAD: 544 O'Tavis Hall "404" - http://www.myvalleynews.com/story/74801/
+BAD: 573 Omarr Jackson "503" - http://www.wwltv.com/story/news/crime/2015/01/08/nopd-officer-involved-shooting-caught-on-body-camera/21465749/
+BAD: 491 Caesar Adams "503" - http://www.wwltv.com/story/news/local/orleans/2014/09/15/officer-shot-on-duty-in-good-spirits/15700815/
+BAD: 562 Carlton Wayne Smith "503" - http://www.kvue.com/story/news/state/2014/12/26/police-shoot-kill-man-firing-gun-in-texas-city-parking-lot/20907475/
+BAD: 543 Leonardo Marquette Little "503" - http://www.firstcoastnews.com/story/news/local/2014/11/24/jso-involved-incident-gate-gas-station/70068030/
+BAD: 542 Tamir E. Rice "503" - http://www.wkyc.com/story/news/local/cleveland/2014/11/22/12-year-old-shot-at-cleveland-rec-center/19413165/
+BAD: 458 Michael Brown "404" - http://www.kmov.com/news/local/Heavy-police-presence--270609091.html
+BAD: 561 Terrance Gilbert "404" - http://chicago.suntimes.com/news-chicago/7/71/235659/cops-man-shot-police-lunching-officers-knife
+BAD: 444 Vamond Arqui Elmore "404" - http://www.postandcourier.com/article/20140722/PC16/140729831
+BAD: 576 Kavonda Earl Payton "503" - http://www.9news.com/story/news/crime/2015/01/21/man-killed-by-officer-after-chase-identified/22138879/
+BAD: 597 James Howard Allen "503" - http://www.wcnc.com/story/news/crime/2015/02/08/gastoina-police-officer-involved-in-deadly-shooting/23075073/
+BAD: 519 Adam Ardett Madison "404" - http://www.njeffersonnews.com/news/update-man-killed-in-warrior-incident-is-identified/article_bbae94ec-586c-11e4-b421-8f631220e05e.html?mode=jqm
+BAD: 602 Phillip Watkins "404" - http://www.ktvu.com/story/28087930/san-jose-police-investigating-officer-involved-shooting
+BAD: 475 Vernicia Woodard "404" - http://www.cbs46.com/story/26391514/atlanta-police-officer-suspected-in-womans-death
+BAD: 591 Yuvette Henderson "404" - http://www.ktvu.com/story/28015839/woman-shot-in-emeryville-officer-involved-shooting
+BAD: 578 Donte Sowell "404" - http://www.theindychannel.com/news/local-news/impd-officer-injured-in-shooting-on-citys-east-side
+BAD: 550 Christopher Bernard Doss "404" - http://www.ksat.com/content/pns/ksat/news/2014/12/08/police-respond-to-officer-involved-shooting.html
+BAD: 606 Terry Price "404" - http://www.fox23.com/news/news/local/man-dies-after-altercation-law-enforcement-osage-c/nkGTc/
+BAD: 463 Eddie Davis "404" - http://www.arklatexhomepage.com/story/d/story/man-killed-in-overnight-shooting-has-been-identifi/42931/M-T9-BnlDEKC3eIlvgv1Xg
+BAD: 564 David Andre Scott "404" - http://www.actionnewsjax.com/news/news/local/swat-called-out-fort-caroline-area/njbtC/
+BAD: 522 Laquan McDonald "404" - http://chicago.suntimes.com/crime/7/71/145458/boy-17-shot-to-death-by-police-on-southwest-side-identified
+BAD: 555 Dennis Grisgby "404" - http://www.arklatexhomepage.com/story/d/story/man-killed-in-officer-involved-shooting/87405/svnKdP8IhEqytXmsg3NyVA
+BAD: 588 Jermonte Fletcher "404" - http://www.nbc4i.com/story/27949788/2-injured-after-officer-involved-shooting
+BAD: 188 Henry Kiner "404" - http://www.sun-sentinel.com/news/broward/oakland-park/fl-suspect-fatally-shot-20130828,0,7940231.story
+BAD: 617 Fednel Rhinvil "404" - http://www.wmdt.com/news/more-local-news/fatal-deputy-involved-shooting/31582624
+BAD: 528 Kaldrick Donald "404" - http://www.wctv.tv/news/georgianews/headlines/Man-Shot-Killed-by-Gretna-Police-Officer-280660612.html
+BAD: 583 DeWayne Carr "404" - http://www.azcentral.com/story/news/12-news/2015/01/20/12-news-shooting-scottsdale-police-ramming/22077173/
+BAD: 531 Raphael Thomas "404" - http://www.wakr.net/news/item/157334-one-dead-in-apd-shooting
+BAD: 640 Jamalis Hall "404" - http://www.wptv.com/news/region-st-lucie-county/fort-pierce/officer-involved-shooting-in-fort-pierce
+BAD: 646 Maya Hall "404" - http://cnsnews.com/news/article/driver-killed-nsa-identified-transgender-friend-says
+BAD: 653 Walter Scott "404" - http://www.postandcourier.com/article/20150404/PC16/150409635/1180/man-shot-and-killed-by-north-charleston-police-officer-after-traffic-stop-sled-investigating
+BAD: 675 Jared Johnson "503" - http://www.wwltv.com/story/news/crime/2015/04/28/nopd-on-scene-of-officer-needing-assistance/26555847/
+BAD: 644 Jason Moland "503" - http://www.news10.net/story/news/local/modesto/2015/03/30/ceres-officer-fatal-shooting/70660046/
+BAD: 728 Martice Milliner "404" - http://chicago.suntimes.com/crime/7/71/759984/chicago-police-involved-grand-crossing-shooting
+BAD: 682 Sam Matthew Holmes "404" - http://www.kare11.com/story/news/2015/05/09/694-shut-down-man-dies-in-officer-involved-shooting/27034515/
+BAD: 717 Damien Harrell "404" - http://www.13newsnow.com/story/news/local/peninsulanow/2015/06/24/incident-closes-part-of-ft-eustis-blvd-in-york-co/29204021/
+BAD: 678 Elton Simpson "503" - http://www.wfaa.com/story/news/local/2015/05/03/garland-curtis-culwell-center-swat/26848435/
+BAD: 685 Kelvin Antonie Goldston "503" - http://www.wfaa.com/story/news/crime/2015/05/11/fort-worth-police-report-officer-involved-shooting/27141917/
+BAD: 730 Eugene McSwain "404" - http://chicago.suntimes.com/news/7/71/770838/man-shot-friday-chicago-police-dies
+BAD: 668 Norman Cooper "404" - http://www.ksat.com/content/pns/ksat/news/2015/04/19/man-dies-in-police-custody0.html
+BAD: 734 Frederick Farmer "404" - http://www.wsbtv.com/news/news/local/gbi-investigates-fatal-officer-involved-shooting/nmxZz/
+BAD: 657 Dexter Bethea "404" - http://www.wctv.tv/home/headlines/Police-Respond-to-Apparent-Shooting-in-Valdosta-299123481.html
+BAD: 695 Anthony Dewayne Briggs "404" - http://www.waaytv.com/appnews/huntsville-police-investigate-fatal-officer-involved-shooting/article_ed55e3aa-035d-11e5-86b1-a7abaa619c23.html
+BAD: 677 Jeffrey O. Adkins "404" - http://www.13newsnow.com/story/news/local/virginia/2015/04/30/greensville-co-man-killed-in-officer-involved-shooting/26633591/
+BAD: 705 Ross Anthony "404" - http://www.dallasnews.com/news/metro/20150609-man-who-died-after-police-used-stun-gun-identified.ece
+BAD: 758 Shamir Palmer "404" - http://www.postandcourier.com/article/20150810/PC16/150819946
+BAD: 732 George Mann "503" - http://www.11alive.com/story/news/local/lawrenceville/2015/07/14/family-questions-procedures-in-gwinnett-police-taser-death/30160171/
+BAD: 697 Kenneth Joel Dothard "503" - http://www.11alive.com/story/news/local/carrollton/2015/05/28/carrolton-officer-involved-shooting/28130059/
+BAD: 771 Bobby Norris "503" - http://www.wfmynews2.com/story/news/local/2015/08/24/one-dead-archdale-officer-involved-shooting/32252479/
+BAD: 764 Asshams Manley "503" - http://www.wusa9.com/story/news/local/maryland/2015/08/15/suspect-shot-police-after-struggle-over-officers-gun/31772861/
+BAD: 698 James Edward Strong Jr. "404" - http://www.thedenverchannel.com/news/local-news/injured-northglenn-police-officer-taken-to-hospital
+BAD: 747 Lawrence Blackburn "404" - http://www.nola.com/crime/baton-rouge/index.ssf/2015/07/police_fatal_shooting_baton_ro.html
+BAD: 782 Wayne Wheeler "404" - http://www.wxyz.com/news/region/detroit/lathrup-village-police-officer-allegedly-kills-man-during-fight-on-detroits-west-side
+BAD: 726 Tremaine Dantzler "404" - http://www.pressofatlanticcity.com/eedition/news/grand-jury-may-decide-fate-of-cop/article_d75e1ab1-8f1e-5086-b543-3243f95fc088.html
+BAD: 743 Dontae Martin "404" - http://www.whio.com/news/news/crime-law/harrison-twp-shooting-believed-to-involve-deputies/nm5KW/
+BAD: 773 Bertrand Davis "404" - http://www.dallasnews.com/news/metro/20150903-dallas-police-man-killed-by-officer-had-pellet-gun.ece
+BAD: 826 James Covington Jr. "503" - http://www.wusa9.com/story/news/local/dc/2015/11/02/police-involved-shooting-reported-southeast-dc/75070140/
+BAD: 836 Demetrius Shelley Bryant "503" - http://www.wltx.com/story/news/2015/11/17/overnight-officer-involved-shooting-cayce/75914374/
+BAD: 844 Darick Napper "503" - http://www.wusa9.com/story/news/local/dc/2015/11/19/police-shooting-reported-northeast-dc/76057818/
+BAD: 829 Adarius Brown "404" - http://www.wftv.com/news/news/local/crash-heavy-law-enforcement-presence-causes-delays/npJ6S/
+BAD: 876 Carlton Antonio Murphy "503" - http://www.wcnc.com/story/news/crime/2016/01/05/cmpd-respond-to-shots-fired-call-in-west-charlotte/78293778/
+BAD: 828 Delvin Tyrell Simmons "404" - http://www.foxcarolina.com/story/30476491/spartanburg-methodist-college-burglary-suspect-talks-to-fox-carolina
+BAD: 800 Jason Day "404" - http://www.swoknews.com/local/man-waving-gun-sheridan-lee-shot-killed-police
+BAD: 904 Calin Devante Roquemore "404" - http://www.news-journal.com/news/2016/feb/14/report-unarmed-man-shot-killed-by-texas-trooper-in/
+BAD: 893 David Joseph "503" - http://www.kvue.com/story/news/local/2016/02/08/police-responding-officer-involved-shooting-northeast-austin/80006352/
+BAD: 924 Scott Bennett "404" - http://www.brownsvilleherald.com/news/texas/article_cd4e572b-f2e1-507e-b563-700c2c6893af.html
+BAD: 874 Eric John Senegal "404" - http://www.katc.com/story/30890387/man-dog-dead-following-officer-involved-shooting
+BAD: 882 Johnathan Bratcher "404" - http://www.wsmv.com/story/31072865/tbi-takes-over-officer-involved-shooting
+BAD: 1030 Jason Brooks "404" - http://www.ksdk.com/news/local/officer-involved-shooting-in-east-st-louis/269594035
+BAD: 932 Jermon Seals "404" - http://www.kctv5.com/story/31554750/robbery-suspect-shot-killed-by-police-outsideblue-springs-walgreens
+BAD: 895 Shalamar Longer "404" - http://www.delcotimes.com/article/DC/20160208/NEWS/160209713
+BAD: 925 Christopher Nelms "404" - http://www.brownsvilleherald.com/news/texas/article_cd4e572b-f2e1-507e-b563-700c2c6893af.html
+BAD: 948 Edson Thevenin "404" - http://wnyt.com/news/troy-police-traffic-stop-officer-pinned-by-car-suspect-shot/4109350/
+BAD: 1007 Angelo Brown "404" - http://www.ksdk.com/news/local/illinois-state-police-investigate-deadly-officer-involved-shooting/255046764
+BAD: 912 Christopher J. Davis "404" - http://www.tmj4.com/news/local-news/sheriff-suspect-shot-by-deputy-in-east-troy-has-died
+BAD: 985 Rodney Rodriguez Smith "404" - http://www.wcnc.com/news/crime/cmpd-officer-shoots-kills-suspect/229338499
+BAD: 997 Antwun Shumpert "404" - http://www.wtva.com/news/Traffic_Stop_Ends_in_Death_After_Suspect_Flees_From_Officer_and_K9.html
+BAD: 952 Demetrius Dorsey "404" - http://www.11alive.com/news/local/mableton/gas-station-robbery-suspect-shot-after-swat-standoff/140453277
+BAD: 902 Calvin Smith "404" - http://www.times-standard.com/general-news/20160213/the-latest-baton-rouge-police-say-2-officers-suspect-shot
+BAD: 797 Brandon Johnson "404" - http://www.wowktv.com/story/30144266/wv-turnpike-shut-down-following-shots-fired-near-north-beckley
+BAD: 984 Willie Demetrius "Meat-Meat" James "404" - http://pilotonline.com/news/local/crime/man-shot-and-killed-by-norfolk-officers-relatives-dispute-police/article_77ad85c6-c5b6-5278-89a9-e9f5d67c92e1.html
+BAD: 915 Kionte DeShaun Spencer "404" - http://www.wdbj7.com/news/local/police-investigating-report-of-shots-fired-near-walgreens-on-brambleton-avenue/38220812
+BAD: 869 Terrozza Tyree Griffin "404" - http://www.wilx.com/breaking/home/BREAKING-Officer-Involved-Shooting-in-Lansing-363517161.html
+BAD: 972 Jabril Robinson "404" - http://www.11alive.com/news/crime/family-of-man-in-clayton-co-officer-involved-shooting-speaks/199406634
+BAD: 971 Sean Ryan Mondragon "404" - http://www.greeleytribune.com/news/21985903-113/breaking-news-greeley-police-shoot-kill-robbery-suspect
+BAD: 1076 Markell Lamarr Bivins "404" - http://www.kcrg.com/content/news/393298031.html
+BAD: 1139 Redrick Jevon Batiste "404" - http://www.khou.com/news/local/hpd-officer-shot-wounded-suspected-robbery-suspect/365102468
+BAD: 1107 Terrence Coleman "404" - http://www.wmur.com/article/officer-involved-shooting-in-bostons-south-end/8032928
+BAD: 1122 Ivory C. Pantallion III "404" - http://www.khou.com/news/crime/shots-fired-at-end-of-chase-near-baytown/354912360
+BAD: 1100 Demetrious Mac Moore "404" - http://www.koaa.com/story/33454346/search-for-murder-suspects-leads-to-deadly-officer-involved-shooting
+BAD: 1303 Zepp Crouchet "410" - http://www.ktvu.com/news/ktvu-local-news/265718285-story
+BAD: 1085 Alfred Olango "404" - http://www.nydailynews.com/news/crime/california-police-shoot-man-witnesses-unarmed-article-1.2809204
+BAD: 1118 Gabriel Parker "404" - http://www.12news.com/news/local/arizona/casa-grande-man-with-machete-shot-killed-by-police/353965824
+BAD: 1136 Paul Mebane "404" - http://www.wtsp.com/news/crime/deputy-not-hurt-in-shooting-at-brandon-walmart/362274329
+BAD: 1237 Kenneth Johnson "404" - http://www.readingeagle.com/news/article/man-dies-after-reading-police-use-taser-on-him
+BAD: 1247 Gavin Williams "404" - http://www.cbs46.com/story/35248353/man-shot-killed-by-deputies-after-fatal-incident-south-of-atlanta
+BAD: 1328 Kemonte Cobbs "404" - http://abc7chicago.com/15-year-old-boy-dies-day-after-being-shot-by-gary-police/2278534/
+BAD: 1259 Landon Nobles "404" - http://www.kvue.com/news/local/one-dead-after-officer-involved-shooting-in-downtown-austin/437567270
+BAD: 1252 Caleb "CJ" Jackson Jr. "404" - http://www.13newsnow.com/news/local/mycity/newport-news/officer-involved-in-shooting-in-newport-news/435151201
+BAD: 1228 William Stokes "404" - http://www.king5.com/news/local/police-shoot-machete-wielding-man-in-des-moines/424872463
+BAD: 1265 Clarence E. Coats Jr. "404" - http://www.abc17news.com/news/highway-patrol-confirms-fatal-officer-involved-shooting-in-columbia-suspect-identified/498416615
+BAD: 1304 Dana D. Dubose "404" - http://www.whio.com/news/breaking-news/cincinnati-man-suspect-hamilton-homicide-shot-and-killed-trooper-vandalia/PhXay1FI9rxD3gtm71b0CN/
+BAD: 1253 Jordan Edwards "404" - http://www.wfaa.com/news/local/15-year-old-boy-killed-in-officer-involved-shooting-in-balch-springs/435409090
+BAD: 1174 Deaundre Phillips "404" - http://www.cbs46.com/story/34359129/police-investigate-shooting-in-atlanta
+BAD: 1315 India Nelson "404" - http://www.13newsnow.com/news/police-investigate-shooting-outside-of-naval-station-norfolk/457458135
+BAD: 1149 Gerald Javon Hall "404" - http://www.wusa9.com/news/local/dc/man-seriously-injured-in-dc-officer-involved-shooting/377904065
+BAD: 958 Joshua Brooks "404" - http://pilotonline.com/news/local/crime/man-dies-after-being-shot-by-chesapeake-police/article_ba02f018-d6c5-5964-b061-7456e1cd93f5.html
+BAD: 968 Arthur R. Williams Jr. "404" - http://www.kvia.com/news/suspect-in-officerinvolved-shooting-dies-police-release-idenity/39471430
+BAD: 1334 Eugene Nelson "404" - http://www.king5.com/news/crime/kent-officer-involved-shooting-at-strip-mall/463015160
+BAD: 1300 Joel Gatu Muturi "404" - http://www.11alive.com/news/gbi-called-in-to-investigate-cobb-county-shooting/453182303
+BAD: 1170 Armond Jairon Brown "404" - http://www.wwltv.com/news/local/jefferson/mentally-ill-man-fatally-shot-after-charging-at-police/392077868
+BAD: 1114 Andrew Depeiza "404" - http://www.cbs46.com/story/33685267/man-shot-killed-during-scuffle-with-police-officers
+BAD: 1347 Demond Grimes "410" - http://www.fox2detroit.com/news/local-news/276406214-story
+BAD: 1184 Shelly Porter III "404" - http://www.whio.com/news/local/suspect-shot-englewood-officer-died-multiple-gunshot-wounds/tzxNLkzR6txCkXFQBmykUO/
+BAD: 1358 Ervin Eugene Sweat Jr. "404" - http://www.times-standard.com/general-news/20170909/police-shoot-man-at-arcata-plaza-witnesses-say
+BAD: 1142 Earl Labon Eubanks Jr. "404" - http://www.cbs46.com/story/34040709/police-man-shot-by-officer-after-refusing-to-drop-weapon
+BAD: 1169 Christopher Mark Thompkins "request to https://www.post-gazette.com/local/city/2017/01/22/Larimer-man-dies-during-alleged-burglary-attempt/stories/201701220223 failed, reason: read ECONNRESET" - http://www.post-gazette.com/local/city/2017/01/22/Larimer-man-dies-during-alleged-burglary-attempt/stories/201701220223
+BAD: 1380 Dewboy Lister "404" - http://www.kristv.com/story/36644366/ccpd-releases-details-on-officer-involved-shooting
+BAD: 1390 Luvelle Kennon "404" - http://abcnews.go.com/US/wireStory/motives-probed-man-killed-holding-teacher-hostage-50854456
+BAD: 1387 Eric Higgs "404" - http://www.localmemphis.com/news/local-news/officer-involved-standoff-shut-down-i-55-near-senatobia-in-como-mississippi/846965072
+BAD: 1345 Devin Howell "404" - http://www.11alive.com/news/local/driver-crashes-after-attempted-traffic-stop-dies-after-being-tased-by-cobb-police/467336562
+BAD: 1438 Amanuel Dagebo "404" - http://www.whio.com/news/local/armed-man-fatally-shot-exchange-gunfire-with-police/xQxoVjpwsRlatvtBbo1qXN/
+BAD: 1448 Corey Mobley "404" - http://www.wtsp.com/news/man-shot-killed-by-manatee-county-deputy-in-bradenton/511057813
+BAD: 1433 Richard R. Towler "404" - http://www.wfmynews2.com/news/local/man-shot-killed-after-firing-at-danville-police-woman-found-dead-in-home/505573867
+BAD: 1483 Name withheld by police "404" - http://www.arklatexhomepage.com/news/local-news/shooting-in-red-river-county/1004358893
+BAD: 1471 Edward Hallinan "404" - http://www.azfamily.com/story/37561165/no-officers-hurt-in-officer-involved-shooting-in-west-phoenix
+BAD: 1473 Glenn Tyndell "404" - http://www.wfaa.com/news/incident-reported-in-brandywine-police-say/521649112
+BAD: 1510 Saheed Vassell "404" - http://www.nydailynews.com/new-york/brooklyn/nypd-cops-shoot-kill-mentally-ill-black-man-holding-metal-pipe-article-1.3914960
+BAD: 1506 Timothy Orlando Wyatt "404" - http://www.wfla.com/news/hillsborough-county/police-investigate-officer-involved-shooting-in-tampa-no-officers-hurt/1092264485
+BAD: 1583 Ricardo Giddings "404" - http://www.philly.com/philly/news/philadelphia-police-officer-wounded-swat-warrant-germantown-20180806.html
+BAD: 85 Lawrence Edward Graham III "request to http://www./#2/ed8e655f-c2a0-5549-9ef4-f9f979efd901.html failed, reason: getaddrinfo ENOTFOUND www." - http://www.fayobserver.com/news/local/cumberland-county-da-says-no-charges-for-fayetteville-police-officer/article_ed8e655f-c2a0-5549-9ef4-f9f979efd901.html
+BAD: 21 James Brown "404" - http://www.abc2news.com/dpp/news/crime_checker/baltimore_city_crime/city-officer-involved-in-shooting
+BAD: 84 Jordan West-Morson "404" - http://www.clickondetroit.com/news/detroit-transit-officer-charged-in-fatal-shooting/21997824
+BAD: 51 Tyrique Rashad Johnson "404" - http://crimeblog.dallasnews.com/2013/03/1-dead-1-injured-after-police-involved-gunfire-erupts-outside-dallas-bar.html/
+BAD: 88 Ryan Koontz "404" - http://wane.com/2013/05/03/gunman-idd-in-fatal-police-shooting/
+BAD: 77 Kenzell Hobbs "404" - http://www.thv11.com/news/article/262003/2/Suspect-shot-by-police-after-manhunt
+BAD: 81 Tavontae Jamar Haney "404" - http://wane.com/2013/04/27/man-fatally-shot-by-police-on-spatz-avenue-identified/
+BAD: 71 Fred Bradford Jr. "404" - http://cityhallblog.dallasnews.com/2013/11/city-to-settl.html/
+BAD: 46 Clinton Roebexar Allen "404" - http://crimeblog.dallasnews.com/2013/03/dallas-police-officer-fatally-shoots-suspect-after-major-disturbance-at-apartment-complex.html/
+BAD: 106 Joshua "Omar" Johnson "404" - http://hamptonroads.com/2013/05/norfolk-police-release-details-fatal-ghent-shooting
+BAD: 105 Anthony Michael Bland "404" - http://hamptonroads.com/2013/05/police-id-man-killed-officer-james-city-county
+BAD: 166 Tyris Wilkerson "404" - http://theadvocate.com/news/police/6630920-123/brpd-officers-suspended-after-shooting
+BAD: 149 Herman Pickens "404" - http://www.news4jax.com/news/man-24-shot-by-police-charged-in-cvs-robbery-shooting/20918158
+BAD: 56 Kenneth Knight "404" - http://wane.com/2013/03/20/3-year-old-safe-after-police-kill-hostage-taker-murder-suspect/
+BAD: 142 George Harvey "404" - http://www.wafb.com/story/22726842/man-dies-after-tased-by-deputies
+BAD: 1799 Tramon Savage "404" - https://www.krdo.com/news/teller-county/gunshots-lead-to-standoff-in-woodland-park/1085447911
+BAD: 367 Dion Julius Brown "request to http://www./#2/014252e4-b8d9-5a2d-a7d0-99a24e0d2be4.html failed, reason: getaddrinfo ENOTFOUND www." - http://www.fayobserver.com/news/crime_courts/article_014252e4-b8d9-5a2d-a7d0-99a24e0d2be4.html
+BAD: 242 Dominique Jean "404" - http://www.wsvn.com/story/23830443/officer-stabbed-multiple-times-suspect-fatally-shot
+BAD: 290 Dontae Daveon Lewis Hayes "404" - http://blog.pe.com/breaking-news/2013/12/31/riverside-police-tape-off-arlington-park-man-down/
+BAD: 125 Joseph Paige "404" - http://www.clickorlando.com/news/suspect-dead-after-officer-involved-shooting/20494590
+BAD: 35 Christopher Allen Taylor "404" - http://lbpost.com/news/2000001848-robbery-suspect-killed-after-firing-on-officers#.UUQWfIUUs7A
+BAD: 441 Donovan Bayton "404" - http://www.washingtonpost.com/local/crime/montgomery-police-officer-involved-in-shooting-at-silver-spring-bank/2014/07/22/db848504-11c4-11e4-9285-4243a40ddc97_story.html4243a40ddc97_story.html
+BAD: 224 Shaqur McNair "request to http://www./#2/b3c06750-b126-5805-aa09-a029e98b910f.html failed, reason: getaddrinfo ENOTFOUND www." - http://www.fayobserver.com/news/crime_courts/da-no-charges-to-be-filed-against-fayetteville-police-officer/article_b3c06750-b126-5805-aa09-a029e98b910f.html
+BAD: 525 Brian Burch "request to http://www./#2/f253b5ae-7298-5362-8caf-84520ea48f26.html failed, reason: getaddrinfo ENOTFOUND www." - http://www.fayobserver.com/news/local/man-shot-killed-when-cumberland-county-deputies-try-to-serve/article_f253b5ae-7298-5362-8caf-84520ea48f26.html
+BAD: 374 Name withheld by police "404" - http://www.click2houston.com/news/hpd-one-injured-in-officerinvolved-shooting-in-se-houston/25817776
+BAD: 198 Charlie Christopher Bates "404" - http://tbo.com/news/crime/shooting-of-usf-rampage-suspect-ruled-justified-20131004/
+BAD: 372 Jonathan Swindle "404" - http://www.kltv.com/story/25426579/e-texas-trooper-involved-shooting-under-investigation
+BAD: 478 Steven Lashone Douglas "404" - http://crimeblog.dallasnews.com/2014/08/suspect-shot-after-brief-police-chase-in-pleasant-grove.html/
+BAD: 306 Alton Reaves "404" - http://www.carolinalive.com/news/story.aspx?id=1002336#.VDBGWRYXNrt
+BAD: 600 Desmond Luster Sr. "404" - http://crimeblog.dallasnews.com/2015/02/live-video-dallas-police-on-the-scene-of-officer-involved-shooting-at-bonnie-view-and-i-20.html/
+BAD: 545 Eric Ricks "404" - http://crimeblog.dallasnews.com/2014/11/balch-springs-police-say-man-died-in-custody-tuesday-after-he-fought-arresting-officers.html/
+BAD: 420 Juan May "404" - http://crimeblog.dallasnews.com/2015/08/arlington-police-officer-fatally-shot-a-man-early-friday-at-car-dealership.html/
+BAD: 405 Lawrence H. Faine "404" - http://hamptonroads.com/2014/06/norfolk-mans-family-questions-officers-use-force
+BAD: 407 David Latham "404" - http://wavy.com/2014/06/06/shooting-reported-in-norfolk-3/
+BAD: 460 Dustin Keith Glover "404" - http://www.12newsnow.com/story/26251863/family-seeks-answers-after-police-release-unconscious-man-who-died-moments-later
+BAD: 388 Juvon Allen "404" - http://www.thv11.com/story/news/local/2014/05/19/little-rock-officer-involved-shooting-may-18-juvon-allen/9282051/
+BAD: 638 Jeremy L. Kelly "404" - http://www.carolinalive.com/news/story.aspx?id=1182204#.VRcxveEqrIW
+BAD: 37 Name withheld by police "404" - http://www.myfoxhouston.com/story/21431932/suspected-purse-snatcher-shot-by-houston-police-officer
+BAD: 691 Chrislon Talbott "404" - http://www.wave3.com/story/29120867/shooting-investigation-in-owensboro
+BAD: 608 A'Donte Washington "404" - http://www.wsfa.com/story/28177937/1-dead-4-in-custody-after-millbrook-house-burglary
+BAD: 636 Walter Brown III "404" - http://wavy.com/2015/03/24/portsmouth-police-confirm-officer-involved-shooting/
+BAD: 648 Tyrail Ezell "404" - http://wkrn.com/2015/03/31/metro-police-officer-involved-in-shooting/
+BAD: 447 Patrick Small "404" - http://www.wmbfnews.com/story/26135343/officer-involved-shooting-at-florence-gas-station
+BAD: 693 Javoris Reshaud Washington "404" - http://www.wsvn.com/story/29128211/man-dead-after-barricading-himself-inside-fort-lauderdale-home
+BAD: 701 Usaamah Rahim "404" - http://www.whdh.com/story/29215946/one-dead-after-officer-involved-shooting-in-roslindale
+BAD: 577 Mario A. Jordan "404" - http://hamptonroads.com/2015/01/man-dies-after-exchange-gunfire-chesapeake-police
+BAD: 735 Chacarion Avant "404" - http://www.clickorlando.com/news/1-dead-in-deputyinvolved-shooting-in-lake-county/34153664
+BAD: 757 Tsombe Clark "404" - http://wnct.com/2015/08/08/officer-involved-shooting-at-buffalo-wild-wings/
+BAD: 652 Darrin A. Langford "404" - http://kwqc.com/2015/04/03/r-i-county-coroner-identifies-man-killed-in-officer-involved-shooting/
+BAD: 770 Thaddeus Faison "404" - http://wivb.com/2015/08/23/troy-officers-hospitalized-after-shootout-gunman-dead/
+BAD: 746 Khari Westly "404" - http://www.ksla.com/story/29634844/spd-officers-involved-in-shooting-while-responding-to-hostage-situation
+BAD: 839 Cornelius Brown "404" - http://www.wsvn.com/story/30546376/police-involved-shooting-in-opa-locka-1-dead
+BAD: 778 Cedric Maurice Williams "404" - http://www.wvva.com/story/29931732/2015/09/01/police-engage-active-shooter-in-bluefield
+BAD: 930 Alexio Allen "404" - http://www.wmcactionnews5.com/story/31559847/the-latest-police-man-fatally-shot-by-memphis-officer
+BAD: 911 Travis Stevenson "404" - http://www.ksla.com/story/31298829/la-state-police-investigates-deadly-officer-involved-shooting-in-baton-rouge
+BAD: 868 Daquan Antonio Westbrook "404" - http://www.wbtv.com/story/30827221/source-gunman-shot-and-killed-at-northlake-mall
+BAD: 933 Deriante Deon Miller "404" - http://wnct.com/2016/03/28/trooper-fatally-shoots-armed-person-in-kinston/
+BAD: 787 Tyrone Bass "404" - http://www.theneworleansadvocate.com/news/13509012-75/man-was-shot-by-st
+BAD: 953 Rico Johnson "404" - http://kxan.com/ap/police-id-man-fatally-shot-after-firing-from-balcony/
+BAD: 987 Henry Green "404" - http://nbc4i.com/2016/06/06/reported-north-columbus-shooting-leaves-1-in-critical-condition/
+BAD: 894 Eric Harris "404" - http://www.ksla.com/story/31172316/jp-deputies-fatally-shoot-suspect-in-orleans-after-incident-at-oakwood-mall
+BAD: 848 Mario Woods "404" - http://ww2.kqed.org/news/2015/12/02/s-f-police-chief-public-defender-clash-over-latest-fatal-cop-shooting?utm_source=twitterfeed&utm_medium=twitter
+BAD: 1053 Earl "Shaleek" Pinckney "404" - http://abc27.com/2016/08/07/man-is-dead-following-officer-involved-shooting-in-uptown-harrisburg/
+BAD: 1022 Alton Sterling "404" - http://www.wave3.com/story/32371223/officer-involved-shooting-leaves-man-dead
+BAD: 1073 Robert Lee Brown "404" - http://www.walb.com/story/33035760/officer-stabbed-suspect-dies-after-being-shot
+BAD: 964 Burt T. Johnson "404" - http://www.cbs58.com/story/31905841/officer-shot-and-suspect-killed-near-73rd-and-mill-road
+BAD: 1011 Germichael Kennedy "request to https://journalstar.com/news/local/crime-and-courts/year-old-woman-killed-in-early-morning-shooting-suspect-fatally/article_12a7dac4-c561-5e48-b5cb-1689734c5faa.html failed, reason: Parse Error" - http://journalstar.com/news/local/911/year-old-woman-killed-in-early-morning-shooting-suspect-fatally/article_12a7dac4-c561-5e48-b5cb-1689734c5faa.html
+BAD: 1135 Bruce R. Johnson II "404" - http://www.kiro7.com/news/local/reports-gunman-on-loose-after-tacoma-shooting/471880730
+BAD: 928 Torrey Lamar Robinson "404" - http://www.tbo.com/news/crime/man-who-broke-into-pasco-house-is-tased-then-dies-20160319/
+BAD: 1235 Christopher Wade "404" - http://nbc4i.com/2017/04/06/columbus-police-involved-in-reported-shooting-at-mt-carmel-st-anns/
+BAD: 1330 Aaron Payne "404" - http://www.wmbfnews.com/story/36061921/man-shot-killed-by-police-in-incident-near-surfside-beach
+BAD: 1104 Lamont Perry "404" - http://www.wbtv.com/story/33506639/probation-officer-idd-after-person-dies-while-being-arrested-in-anson-co
+BAD: 1227 Don Johnson "404" - http://www.ksla.com/story/34979123/officer-injured-two-others-killed-in-southwest-louisiana
+BAD: 1098 Darius Wimberly "404" - http://woodtv.com/2016/10/18/officer-involved-shooting-in-benton-harbor/
+BAD: 1117 Dontrell Montese Carter "404" - http://www.wtvm.com/story/33746792/suspect-in-sumter-shoot-out-with-deputies-killed-after-fatally-wounding-us-marshal
+BAD: 1191 Jocques Scott Clemmons "404" - http://wkrn.com/2017/02/10/person-shot-while-fleeing-police-in-east-nashville/
+BAD: 1212 Epthen Lamont Johnson "404" - http://www.ktre.com/story/34633212/lufkin-pd-officer-shoots-kills-armed-suspect-to-save-assault-victim
+BAD: 1138 Mark Anthony Hicks "request to http://www./#2/f2e547cb-bfe0-54e5-8ded-3f917a6d369b.html failed, reason: getaddrinfo ENOTFOUND www." - http://www.fayobserver.com/news/crime_courts/police-man-stabs-woman-to-death-then-shot-killed-by/article_f2e547cb-bfe0-54e5-8ded-3f917a6d369b.html
+BAD: 1318 Kesharn K. Burney "404" - http://wdtn.com/2017/07/26/reports-police-involved-in-shooting-wednesday-morning/
+BAD: 1258 Cedric Jamal Mifflin "404" - http://wrbl.com/2017/05/07/officer-involved-shooting-confirmed-in-phenix-city/
+BAD: 1269 Jaison Fitzgerald "404" - http://www.nbc12.com/story/35435450/police-investigating-officer-involved-shooting-in-south-richmond
+BAD: 1326 Preston Thornton "404" - http://www.ksla.com/story/36031367/red-river-parish-sheriffs-deputy-injured-in-morning-shooting
+BAD: 1272 Deonte Marces Giles "404" - http://wrbl.com/2017/05/18/police-officer-suspect-hit-by-vehicles-at-cusseta-road-and-25th-avenue-suspect-killed/
+BAD: 1461 Tierre Guthrie "404" - http://www.wsbtv.com/news/local/shooting-investigation-underway-in-locust-grove/697113627
+BAD: 1189 Quanice Derrick Hayes "404" - http://koin.com/2017/02/09/portland-police-kill-armed-robbery-suspect/
+BAD: 1306 DeJuan Guillory "404" - http://klfy.com/2017/07/06/update-state-police-identify-person-killed-in-deputy-involved-shooting-in-mamou/
+BAD: 1419 Zoe Dowdell "404" - http://wtnh.com/2017/12/14/state-police-investigating-officer-involved-shooting-in-new-britain/
+BAD: 1256 Malik Carey "404" - http://woodtv.com/2017/05/03/grand-rapids-police-respond-to-officer-involved-shooting/
+BAD: 1378 DeAndre Bethea "404" - http://wric.com/2017/10/18/officer-involved-shooting-investigation-underway-at-hampton-convenience-store/
+BAD: 1441 Warren Ragudo "404" - http://kron4.com/2018/01/17/suspect-dies-after-being-tased-by-police-in-daly-city/
+BAD: 1418 Ira Crawford "404" - http://wkrg.com/2017/12/11/breaking-mobile-police-holds-press-conference-on-officer-involved-shooting/
+BAD: 1384 Timothy Earl Jackson "404" - http://wfla.com/2017/10/25/armed-carjacking-suspect-dies-after-shootout-with-st-pete-police/
+BAD: 1173 Kevin Darnell Washington "404" - http://www.wmcactionnews5.com/story/34349725/2-desoto-county-deputies-shot-in-southaven
+BAD: 1172 Sabin Marcus Jones "404" - http://www.nbc12.com/story/34345766/va-man-with-schizophrenia-dies-after-being-shot-with-taser-by-law-enforcement
+BAD: 1376 J.C. Hawkins Jr. "404" - http://www.nbc29.com/story/36591949/charlottesville-police-suspect-dies-in-officer-involved-shooting-near-rivanna-trail
+BAD: 1036 Gavin Eugene Long "404" - http://www.wafb.com/story/32463160/baton-rouge-police-respond-to-report-of-officers-down?clienttype=generic&sf31129941=2
+BAD: 1275 DeRicco Devante Holden "404" - http://www.ksla.com/story/35481659/police-chief-kills-man-during-altercation-in-sabine-parish
+BAD: 1527 Demonjhea Jordan "404" - http://www.wave3.com/story/38029776/lmpd-on-scene-of-officer-involved-shooting-in-portland
+BAD: 1536 Marcus-David L. Peters "404" - http://www.nbc12.com/story/38187605/naked-man-shot-by-police-on-i-95-has-died
+BAD: 1113 Ritchie Lee Harbison "404" - http://wspa.com/2016/11/08/nude-irrational-driver-dies-after-tasing-deputies-say/
+BAD: 1577 James Edward Blackmon "404" - http://www.kfvs12.com/story/38771011/suspect-identified-in-deadly-shootout-with-asp
+BAD: 31 Charles A. Baker Jr. "404" - http://www.buffalonews.com/20130217/parolee_reported_dead_in_jamestown_police_custody.html
+BAD: 1466 Ronell Foster "404" - http://kron4.com/2018/02/14/1-shot-killed-during-struggle-with-vallejo-police-officer/
+BAD: 1407 Lawrence Hawkins "404" - http://www.walb.com/story/36888057/prichard-police-officer-identified-in-deadly-officer-involved-shooting
+BAD: 1456 Albert Morton Jr. "404" - http://abc27.com/2018/02/01/police-incident-in-harrisburg/
+BAD: 1428 Shaleem Tindle "404" - http://kron4.com/2018/01/04/man-killed-in-police-shooting-near-west-oakland-bart-identified/
+BAD: 1463 Sidney T. Richardson IV "404" - http://wfla.com/2018/02/10/police-investigate-officer-involved-shooting-in-tampa/
+BAD: 494 Kashad Ashford "404" - http://www.northjersey.com/news/crime-and-courts/mother-wants-answers-in-son-s-lyndhurst-shooting-1.1132449?page=all
+BAD: 379 Devante Kyshon Hinds "404" - http://www.wset.com/story/25484112/jefferson-county-sheriffs-office-release-identity-of-birmingham-man-shot-and-killed-by-deputy
+BAD: 22 Anthony Dwayne Harris "404" - http://jacksonville.com/news/crime/2014-09-06/story/lawsuit-pits-family-against-jacksonville-police-over-fatal-police
+BAD: 1365 Dominique Tyrell White "404" - http://cjonline.com/news/local/crime-courts/2017-09-28/30-year-old-man-killed-after-two-topeka-police-officers
+BAD: 289 Ricky Junior Toney "404" - http://www.wilsontimes.com/News/Feature/Story/28048226---Deputies--Man-fatally-shot-after-killing-2
+BAD: 1449 Ricky Jerome Boyd "404" - http://savannahnow.com/news/crime-courts/2018-01-23/update-gbi-investigating-after-man-killed-during-officer-involved
+BAD: 1340 Derrick Rashard Brabham "404" - http://jacksonville.com/news/public-safety/2017-08-18/jacksonville-sheriff-identifies-officers-shot-suspect-killed-friday
+BAD: 1534 Elliot Reed "404" - http://www.wlox.com/story/38149334/officer-shoots-suspect-at-mississippi-gas-station
+BAD: 350 Bryant Augustus "Fluke" Stallings "404" - http://www.wcti12.com/news/city-official-two-officers-injured-one-suspect-dead-in-shooting/25226556
+BAD: 285 Somourian Jamal Wingo "404" - http://jacksonville.com/news/2013-12-28/story/trooper-involved-shooting-putnam-county-leaves-one-dead
+BAD: 585 Tiano Meton "404" - http://www.elpasotimes.com/news/ci_27431545/fbi-releases-name-man-shot-and-killed-by
+BAD: 1009 Ismael Miranda "404" - http://www.northjersey.com/news/authorities-man-dead-in-exchange-of-gunfire-with-paterson-police-officers-1.1621357
+BAD: 74 Amjustine Hunter "404" - http://www.commercialappeal.com/news/2013/apr/23/memphis-police-kill-man-who-hit-two-officers-car/
+BAD: 805 Dequan L. Williams "404" - http://archive.ydr.com/local/ci_28983263/police-respond-saturday-afternoon-shooting-york
+BAD: 123 Micah Anthony Key "404" - http://www.gosanangelo.com/news/man-dies-in-custody-after-police-repeatedly-use
+BAD: 641 Meagan Hockaday "404" - http://www.vcstar.com/news/local-news/oxnard/oxnard-woman-killed-by-police-after-domestic-dispute-call_34372240
+BAD: 311 James L. Norris "404" - http://www.delmarvanow.com/article/20140205/NEWS/302050037
+BAD: 291 Julias Michael Reese "404" - http://www.freep.com/article/20140102/NEWS05/301020071/carjacking-suspect-redford-detroit-shot-killed
+BAD: 752 Charles Bertram "404" - http://www.elpasotimes.com/news/ci_28636541/el-paso-police-id-man-killed-officer-involved
+BAD: 1589 Montae D. Shackleford "404" - https://abc22now.com/news/local/suspect-in-critical-condition-after-officer-involved-shooting-in-north-columbus
+BAD: 1223 Desmond Phillips "404" - http://www.krcrtv.com/news/local/butte/chico-police-office-involved-shooting-no-fatality-in-north-campus-area/401951115
+BAD: 29 Kenny Detrelle Montgomery "request to http://abclocal.go.com/story?section=news/local&id=8991891 failed, reason: connect ETIMEDOUT 68.71.216.14:80" - http://abclocal.go.com/story?section=news/local&id=8991891
+BAD: 94 Terrance Terrell Franklin "request to http://blogs.citypages.com/blotter/2013/05/terrence_franklin_shot_multiple_times_by_mpd_but_its_unclear_whether_he_fired_a_shot_himself.php failed, reason: connect ETIMEDOUT 66.171.198.110:80" - http://blogs.citypages.com/blotter/2013/05/terrence_franklin_shot_multiple_times_by_mpd_but_its_unclear_whether_he_fired_a_shot_himself.php
+BAD: 103 Terry Laffitte "request to http://abclocal.go.com/kabc/story?id=9107846 failed, reason: connect ETIMEDOUT 68.71.216.14:80" - http://abclocal.go.com/kabc/story?id=9107846
+BAD: 158 Laroy Brown "request to http://abclocal.go.com/kgo/story?section=news%2Flocal%2Feast_bay&id=9178148 failed, reason: connect ETIMEDOUT 68.71.216.14:80" - http://abclocal.go.com/kgo/story?section=news%2Flocal%2Feast_bay&id=9178148
+BAD: 180 Eric McNeil "request to http://abclocal.go.com/wpvi/story?section=news%2Flocal&id=9207104 failed, reason: connect ETIMEDOUT 68.71.216.14:80" - http://abclocal.go.com/wpvi/story?section=news%2Flocal&id=9207104
+BAD: 234 Matthew Deshune Swiney "request to http://abclocal.go.com//story?section=news/local&id=9300639 failed, reason: connect ETIMEDOUT 68.71.216.14:80" - http://abclocal.go.com//story?section=news/local&id=9300639
+BAD: 323 Oscar Gaspar "request to http://abclocal.go.com/ktrk/story?section=news%2Flocal&id=9434538 failed, reason: connect ETIMEDOUT 68.71.216.14:80" - http://abclocal.go.com/ktrk/story?section=news%2Flocal&id=9434538
+BAD: 337 Hallis Kinsey "request to http://abclocal.go.com/ktrk/story?section=news%2Flocal&id=9468645 failed, reason: connect ETIMEDOUT 68.71.216.14:80" - http://abclocal.go.com/ktrk/story?section=news%2Flocal&id=9468645
+BAD: 333 Victor White III "request to http://www1.katc.com/news/autopsy-report-victor-white-iii-shot-in-the-chest-not-back/ failed, reason: connect ETIMEDOUT 208.112.102.114:80" - http://www1.katc.com/news/autopsy-report-victor-white-iii-shot-in-the-chest-not-back/
+BAD: 489 Elijah Jackson "request to http://www.local8now.com/home/headlines/Shots-fired-in-North-Knox-County-subdivision-274895741.html failed, reason: connect ETIMEDOUT 50.63.202.17:80" - http://www.local8now.com/home/headlines/Shots-fired-in-North-Knox-County-subdivision-274895741.html
+BAD: 916 Akiel Rakim Lakeith Denkins "request to http://wncn.com/2016/02/29/raleigh-police-investigate-officer-involved-shooting/ failed, reason: connect ETIMEDOUT 54.209.218.125:80" - http://wncn.com/2016/02/29/raleigh-police-investigate-officer-involved-shooting/
+BAD: 1359 Brian Ziro "request to https://www.theet.com/news/free/suspect-shot-after-firing-at-police-dies-other-suspects-in/article_1efa4521-c84a-5efc-9f37-c12667e40e4b.html failed, reason: connect ETIMEDOUT 205.178.189.131:443" - https://www.theet.com/news/free/suspect-shot-after-firing-at-police-dies-other-suspects-in/article_1efa4521-c84a-5efc-9f37-c12667e40e4b.html
+BAD: 99 Jermaine Darden "request to https://www.star-telegram.com/news/local/fort-worth/article219303070.html failed, reason: read ETIMEDOUT" - https://www.star-telegram.com/news/local/fort-worth/article219303070.html
+BAD: 1613 Dacion Steptoe "request to https://www.star-telegram.com/news/local/community/fort-worth/article218461850.html failed, reason: read ETIMEDOUT" - https://www.star-telegram.com/news/local/community/fort-worth/article218461850.html
+BAD: 408 Lonnie Flemming "request to http://www.local8now.com/home/headlines/KPD-officer-shot-in-East-KNoxville-262228291.html failed, reason: read ECONNRESET" - http://www.local8now.com/home/headlines/KPD-officer-shot-in-East-KNoxville-262228291.html
+BAD: 1740 Dai'Shawn Brown "request to https://www.modbee.com/news/local/crime/article228278949.html failed, reason: read ETIMEDOUT" - https://www.modbee.com/news/local/crime/article228278949.html
+BAD: 1567 Charles Webb "request to https://www.kansascity.com/news/local/crime/article214420459.html failed, reason: read ETIMEDOUT" - https://www.kansascity.com/news/local/crime/article214420459.html

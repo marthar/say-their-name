@@ -1,7 +1,6 @@
 import React, { useReducer, useRef, useEffect, useLayoutEffect, useCallback, forwardRef } from "react"
 import PropTypes from 'prop-types';
 
-import Tabletop from "tabletop"
 
 import { map, keys, find, filter, sortBy, groupBy, uniqBy } from "lodash"
 
@@ -64,20 +63,22 @@ function runSearch(entries, search) {
   })
 }
 
-
-function ShowDetail() {
-  return <div>sdasf</div>;
+function visitArticle(entry) {
+  if(entry.article.startsWith("http://") ||
+     entry.article.startsWith("htttps://")) {
+    window.open(entry.article)
+  }
 }
 
 function ShowListItem(entry) {
-  return <div className='namelist__entry' key={entry.key}>
+  return <div className='namelist__entry' key={entry.key} onClick={() => visitArticle(entry) }>
     <div className='namelist__line'>
       <div className='namelist__dot'></div>
     </div>
     <div className='namelist__date'>{format(entry.date, 'm.d.yyyy')}</div>
     <div className='namelist__details'>
       <div className='namelist__name'>{entry.name}</div>
-      <div className='namelist__age'>Age {entry.age}</div>
+      {(parseInt(entry.age,10) > 0) && <div className='namelist__age'>Age {entry.age}</div>}
       <div className='namelist__location'>{entry.city}, {entry.state}</div>
       {false && entry.image && <div className='namelist__image' style={{backgroundImage: `url("${entry.image}")` }}></div>}
     </div>
@@ -87,6 +88,58 @@ function ShowListItem(entry) {
 function ShowList(entries) {
   return map(entries, ShowListItem)
 }
+
+let scrollReset = 0;
+let lastScroll = 0;
+let paused = false;
+
+
+function scrollTimer() {
+  window.requestAnimationFrame(() => {
+
+    if(scrollReset > 0) {
+      scrollReset -= 1;
+    } else if(!paused) {
+      lastScroll = window.scrollY + 2;
+      window.scroll(0,lastScroll);
+    }
+
+    scrollTimer();
+  });
+
+}
+
+
+function handleVisibilityChange() {
+  if (document[hidden]) {
+    paused = true;
+  } else {
+    scrollReset = 30;
+    paused = false;
+  }
+}
+
+window.addEventListener("scroll",() => {
+  if(lastScroll != window.scrollY && window.scrollY > 0) {
+    scrollReset = 200;
+  }
+})
+
+var hidden, visibilityChange; 
+if (typeof document.hidden !== "undefined") { // Opera 12.10 and Firefox 18 and later support 
+  hidden = "hidden";
+  visibilityChange = "visibilitychange";
+} else if (typeof document.msHidden !== "undefined") {
+  hidden = "msHidden";
+  visibilityChange = "msvisibilitychange";
+} else if (typeof document.webkitHidden !== "undefined") {
+  hidden = "webkitHidden";
+  visibilityChange = "webkitvisibilitychange";
+}
+
+document.addEventListener(visibilityChange, handleVisibilityChange, false);
+
+
 
 function App() {
   const [
@@ -101,18 +154,17 @@ function App() {
 
 
   useEffect(() => { 
-    Tabletop.init( {
-      key: 'https://docs.google.com/spreadsheets/d/1ZWIpWwkm5C0pERHiRkmHsYTmReG4F3KC38ofquCLJZY/edit?usp=sharing',
-      simpleSheet: true }
-    ).then(function(data, tabletop) { 
+    fetch("names.json")
+     .then(response => response.json())
+     .then(data => {
       dispatch({ type: "ENTRIES", entries: processEntries(data) })
+      scrollTimer();
    }) }, []);
 
 
 
 
   return (
-    <Router>
     <div>
     <header>
       <h1>Say Their Names</h1>
@@ -124,17 +176,11 @@ function App() {
       </h3>
     </header>  
 
-  <div className="button" id="side-button"><a href="https://docs.google.com/document/d/1zh6reFJWkZRGBL5iIezTfA2tkKBB3X9JcMh2QYT8tWk/mobilebasic">What You Can Do</a></div>    
-    <Switch>
-          <Route exact path="/">
-            <div className='namelist'>
-              {ShowList(entries)}
-            </div>
-          </Route>
-          <Route path="/:id" children={<ShowDetail entries={entries} />} />
-        </Switch>
-     </div>
-    </Router>
+    <div className="button" id="side-button"><a href="https://docs.google.com/document/d/1zh6reFJWkZRGBL5iIezTfA2tkKBB3X9JcMh2QYT8tWk/mobilebasic">What You Can Do</a></div>    
+      <div className='namelist'>
+        {ShowList(entries)}
+      </div>
+  </div>
   );
 }
 
