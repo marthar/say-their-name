@@ -114,10 +114,16 @@ function App() {
   return (
     <Router>
     <div>
-    <h1>Say Their Name</h1>
-    <h2>These are the names of black individuals murdered by police between 2013 and 2020, concluding with George Floyd. They are typeset using <a href="https://www.vocaltype.co/history-of/martin">MARTIN</a>, a typeface inspired by signage from the 1968 Memphis Sanitation Strike and designed by Tres Seal.
-Sources: <a href="https://www.washingtonpost.com/graphics/investigations/police-shootings-database">Washington Post</a>, <a href="https://killedbypolice.net">Killed By Police</a>, and NPR’s Code Switch, <a href="https://www.npr.org/2020/05/29/865261916/a-decade-of-watching-black-people-die">A Decade of Watching Black People Die</a>.  </h2>
-  <div className="button"><a href="https://docs.google.com/document/d/1zh6reFJWkZRGBL5iIezTfA2tkKBB3X9JcMh2QYT8tWk/mobilebasic">What You Can Do</a></div>
+    <header>
+      <h1>Say Their Names</h1>
+      <h2>These are the names of known black individuals murdered by the police between 2013 and 2020, concluding with George Floyd. It is almost impossible to scroll through the sheer volume of names listed here. Of equal importance are the names not listed: those of the friends, family, and loved ones left behind. <br/><br/>
+      This violence extends well beyond the past seven years; the data does not.
+      </h2> 
+      <h3>
+        Sources: <a href="https://mappingpoliceviolence.org/">Mapping Police Violence</a>, <a href="https://www.washingtonpost.com/graphics/investigations/police-shootings-database/">Washington Post</a>, <a href="https://killedbypolice.net/">Killed By Police</a>, and “<a href="https://www.npr.org/2020/05/29/865261916/a-decade-of-watching-black-people-die">A Decade of Watching Black People Die</a>,” an episode of NPR’s Code Switch . Names are typeset in <a href="https://www.vocaltype.co/history-of/martin">MARTIN</a> inspired by signage from the 1968 Memphis Sanitation Strike and designed by Tres Seal.
+      </h3>
+    </header>  
+
   <div className="button" id="side-button"><a href="https://docs.google.com/document/d/1zh6reFJWkZRGBL5iIezTfA2tkKBB3X9JcMh2QYT8tWk/mobilebasic">What You Can Do</a></div>    
     <Switch>
           <Route exact path="/">
