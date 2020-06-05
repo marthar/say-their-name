@@ -129,7 +129,7 @@ window.addEventListener("scroll",() => {
     everScrolled = true;
     scrollReset = 50;
   }
-  else if(lastScroll != window.scrollY && window.scrollY > 0) {
+  else if(Math.abs(lastScroll - window.scrollY) > 10 && window.scrollY > 0) {
     scrollReset = 100;
   }
 })
