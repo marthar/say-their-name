@@ -91,8 +91,9 @@ let everScrolled = false;
 
 let lastTime = 0;
 
+lastTime = performance.now();
+
 function scrollTimer() {
-  lastTime = performance.now();
   window.requestAnimationFrame((curTime) => {
 
     if(everScrolled) {
