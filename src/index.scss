@@ -78,6 +78,7 @@ h3 {
   font-family: "martin-web";
   font-size: 20px;
   z-index:1;
+  background-color:rgba(0,0,0,.7);
 }
 
 .button:hover {
@@ -210,9 +211,20 @@ h3 {
   letter-spacing: .035em;
   }
   
-  h2 {
-
+  header {
+    padding:0 9%;
   }
+  
+
+  h1 {
+  font-size:180px;  
+  }
+  
+  h2 {
+    font-size:18px;
+  }
+  
+  h3 { font-size:15px;}
   
   .date-exp {
     right: 70%;
@@ -229,15 +241,20 @@ h3 {
 
   &__date {
     right: 70%;
+    padding-right:10px;
+    font-size:18px;
   }
     
   &__details { 
     left: 30%;
+    max-width:70%;
+    padding-left:10px;
   }
 
     &__name {
-    padding-right:20%;
-      
+      font-size:70px;
+      line-height:.75em;
+      word-wrap: break-word;  
     }
 
 
