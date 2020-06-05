@@ -63,7 +63,7 @@ function visitArticle(entry) {
 }
 
 function ShowListItem(entry) {
-  return <div className='namelist__entry' key={entry.key} onClick={() => visitArticle(entry) }>
+  return <div className='namelist__entry' key={entry.key} >
     <div className='namelist__line'>
       <div className='namelist__dot'></div>
     </div>
@@ -72,7 +72,7 @@ function ShowListItem(entry) {
       <div className='mobile'>{format(entry.date, 'm.d')}<br/>{format(entry.date, 'yyyy')}</div>
     </div>
     <div className='namelist__details'>
-      <div className='namelist__name'>{entry.name}</div>
+      <div className='namelist__name' onClick={() => visitArticle(entry) }>{entry.name}</div>
       {(parseInt(entry.age,10) > 0) && <div className='namelist__age'>Age {entry.age}</div>}
       <div className='namelist__location'>{entry.city}, {entry.state}</div>
       {false && entry.image && <div className='namelist__image' style={{backgroundImage: `url("${entry.image}")` }}></div>}
@@ -93,7 +93,11 @@ let lastTime = 0;
 
 lastTime = performance.now();
 
+
+var isAndroid = /android/i.test(navigator.userAgent.toLowerCase());
+
 function scrollTimer() {
+  if(isAndroid) { return; }
   window.requestAnimationFrame((curTime) => {
 
     if(everScrolled) {

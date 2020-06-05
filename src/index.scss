@@ -9,7 +9,6 @@
 html, body {
   padding:0px;
   margin:0px;
-  scroll-behavior: smooth;
 }
 
 * {
@@ -146,7 +145,6 @@ h3 {
   &__entry {
     position:relative;
     min-height:20px;
-    cursor:pointer;
     
   }
 
@@ -201,6 +199,7 @@ h3 {
     letter-spacing:.015em;
     word-spacing:.015em;
     padding-bottom:15px;
+    cursor:pointer;
   }
   
   &__age {
