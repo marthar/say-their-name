@@ -61,7 +61,7 @@ h2 {
 h3 {
   font-size:16px;
   line-height: 1.4em;
-  padding-bottom: 250px;
+  padding-bottom: 70px;
 }
 
 .button { 
@@ -103,6 +103,17 @@ h3 {
   right:0;
   transform:rotate(-90deg);
   transform-origin: right bottom;
+}
+
+.date-exp {
+  position: relative;
+  right: 60%;
+  text-align: right;
+  padding-right: 20px;
+  right: 60%;
+  font-size: 20px;
+  padding-top: 23px;
+  color: #505050;
 }
 .namelist {
   max-width:1040px;
@@ -191,6 +202,22 @@ h3 {
 
 @media screen and (max-width:600px) {
   
+  .button a {
+  padding: 5px 3px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+  letter-spacing: .035em;
+  }
+  
+  h2 {
+
+  }
+  
+  .date-exp {
+    right: 70%;
+  }
+  
   .namelist {
 
   &__entry {
@@ -208,6 +235,10 @@ h3 {
     left: 30%;
   }
 
+    &__name {
+    padding-right:20%;
+      
+    }
 
 
 }
