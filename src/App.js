@@ -57,7 +57,7 @@ function runSearch(entries, search) {
 
 function visitArticle(entry) {
   if(entry.article.startsWith("http://") ||
-     entry.article.startsWith("htttps://")) {
+     entry.article.startsWith("https://")) {
     window.open(entry.article)
   }
 }
