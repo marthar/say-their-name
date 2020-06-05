@@ -183,7 +183,7 @@ function App() {
         Sources: <a href="https://mappingpoliceviolence.org/">Mapping Police Violence</a>, <a href="https://www.washingtonpost.com/graphics/investigations/police-shootings-database/">Washington Post</a>, <a href="https://killedbypolice.net/">Killed By Police</a>, and “<a href="https://www.npr.org/2020/05/29/865261916/a-decade-of-watching-black-people-die">A Decade of Watching Black People Die</a>,” an episode of NPR’s Code Switch. Names are typeset in <a href="https://www.vocaltype.co/history-of/martin">MARTIN</a> inspired by signage from the 1968 Memphis Sanitation Strike and designed by Tr&eacute;s Seals.<br/><br/>
         <a href="mailto:saytheirnames.us@gmail.com">Talk with us.</a>
       </h3>
-      <div className="date-exp">data begins in<br/>2013</div>
+      <div class="date-exp">data begins<br/>2013</div>
     </header>  
 
     <div className="button" id="side-button"><a href="https://docs.google.com/document/d/1zh6reFJWkZRGBL5iIezTfA2tkKBB3X9JcMh2QYT8tWk/mobilebasic">What You Can Do</a></div>    
