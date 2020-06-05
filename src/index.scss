@@ -23,6 +23,28 @@ body {
   color:#949393;
 }
 
+.desktop {
+  display:block;
+}
+
+.mobile { 
+  display:none;
+}
+
+@media screen and (max-width:600px) {
+
+.desktop {
+  display:none;
+}
+
+.mobile { 
+  display:block;
+}
+ 
+
+
+}
+
 a {
   color:white;
   color: #949393;
@@ -155,6 +177,7 @@ h3 {
     font-size:20px;
     padding-top:23px;
     color:#505050;
+    text-align:right;
   }
 
 
