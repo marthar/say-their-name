@@ -31,12 +31,15 @@ const retrieveStatus = async (url) => {
 
   for(var i = 0; i < data.length; i++) { 
     ((entry,i) => { 
-      setTimeout(() => 
-        retrieveStatus(entry.article).then((status) => {
-          if(status != 200) {
-            console.log(`BAD URL: ROW${i+2} ${entry.name} "${status}" - ${entry.article}`)
-          }
-        }), Math.random(120000));
+      setTimeout(() => {
+	if(entry.article != '') {
+	        retrieveStatus(entry.article).then((status) => {
+        	  if(status != 200) {
+	            console.log(`BAD URL: ROW${i+2} ${entry.name} "${status}" - ${entry.article}`)
+	          }
+		})
+        	}
+       }, Math.random(120000));
     })(data[i],i)
   }
 });

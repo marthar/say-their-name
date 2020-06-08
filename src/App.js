@@ -191,7 +191,7 @@ function App() {
       <div class="date-exp">data begins<br/>2013</div>
     </header>  
 
-    <div className="button" id="side-button"><a href="https://docs.google.com/document/d/1zh6reFJWkZRGBL5iIezTfA2tkKBB3X9JcMh2QYT8tWk/mobilebasic">What You Can Do</a></div>    
+    <div className="button" id="side-button"><a href="https://docs.google.com/document/d/1U8CfdoYe8P1T0FeRHsNNr8ZezgYmp3ahmnSile_TDIw/edit?usp=sharing">What You Can Do</a></div>    
       <div className='namelist'>
         {ShowList(entries)}
       </div>
